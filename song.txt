@@ -1,8 +1,6 @@
 *Song Title*
 
 Song lyrics
-<<<<<<< HEAD
+
 **added song lyrics directly from Github**
-*the forbidden verse i need to revert*
-=======
->>>>>>> parent of 2809dca (Update song.txt)
+*the forbidden verse*
