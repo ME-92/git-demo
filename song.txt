@@ -4,3 +4,4 @@ Song lyrics
 
 **added song lyrics directly from Github**
 *the forbidden verse*
+add first half of my favourite song
